@@ -9,14 +9,15 @@ h1 {
   color: #2c3e50;
 }
 
-input, button {
+input,
+button {
   padding: 5px;
   margin: 5px;
   border-radius: 5px;
 }
 
 button {
-  background-color: #e74c3c;
+  background-color: blue;
   color: white;
   border: none;
   cursor: pointer;
@@ -28,13 +29,14 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th,
+td {
   padding: 10px;
   border: 1px solid #ddd;
 }
 
 th {
-  background-color: #f1c40f;
+  background-color: coral;
   color: white;
 }
 
